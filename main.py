@@ -1,5 +1,3 @@
-//heart using python//
-
 import math
 from turtle import *
 def hearta(k):
